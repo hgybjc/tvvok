@@ -1,0 +1,286 @@
+CCTV1,http://222.89.107.42:9876/tsfile/live/0001_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV2,http://222.89.107.42:9876/tsfile/live/0002_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV3,http://222.89.107.42:9876/tsfile/live/0003_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV4,http://222.89.107.42:9876/tsfile/live/0004_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV5,http://222.89.107.42:9876/tsfile/live/0017_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV6,http://222.89.107.42:9876/tsfile/live/0006_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV7,http://222.89.107.42:9876/tsfile/live/0007_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV8,http://222.89.107.42:9876/tsfile/live/0008_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV9,http://222.89.107.42:9876/tsfile/live/0009_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV10,http://222.89.107.42:9876/tsfile/live/0010_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV11,http://222.89.107.42:9876/tsfile/live/0011_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV12,http://222.89.107.42:9876/tsfile/live/0012_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV13,http://222.89.107.42:9876/tsfile/live/0013_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV14,http://222.89.107.42:9876/tsfile/live/0014_1.m3u8?key=txiptv&playlive=1&authid=0
+CCTV15,http://222.89.107.42:9876/tsfile/live/0015_1.m3u8?key=txiptv&playlive=1&authid=0
+河南都市频道,http://222.89.107.42:9876/tsfile/live/0139_1.m3u8?key=txiptv&playlive=1&authid=0
+河南民生频道,http://222.89.107.42:9876/tsfile/live/0139_2.m3u8?key=txiptv&playlive=1&authid=0
+河南法制频道,http://222.89.107.42:9876/tsfile/live/0139_3.m3u8?key=txiptv&playlive=1&authid=0
+河南电视剧频道,http://222.89.107.42:9876/tsfile/live/0139_4.m3u8?key=txiptv&playlive=1&authid=0
+河南新闻频道,http://222.89.107.42:9876/tsfile/live/0139_5.m3u8?key=txiptv&playlive=1&authid=0
+河南公共频道,http://222.89.107.42:9876/tsfile/live/0139_6.m3u8?key=txiptv&playlive=1&authid=0
+河南梨园频道,http://222.89.107.42:9876/tsfile/live/0139_7.m3u8?key=txiptv&playlive=1&authid=0
+美食汇,http://222.89.107.42:9876/tsfile/live/0017_5.m3u8?key=txiptv&playlive=1&authid=0
+百姓调解,http://222.89.107.42:9876/tsfile/live/0017_6.m3u8?key=txiptv&playlive=1&authid=0
+河南卫视,http://222.89.107.42:9876/tsfile/live/0128_1.m3u8?key=txiptv&playlive=1&authid=0
+江苏卫视,http://222.89.107.42:9876/tsfile/live/0127_1.m3u8?key=txiptv&playlive=1&authid=0
+浙江卫视,http://222.89.107.42:9876/tsfile/live/0124_1.m3u8?key=txiptv&playlive=1&authid=0
+北京卫视,http://222.89.107.42:9876/tsfile/live/0122_1.m3u8?key=txiptv&playlive=1&authid=0
+天津卫视,http://222.89.107.42:9876/tsfile/live/0135_1.m3u8?key=txiptv&playlive=1&authid=0
+山东卫视,http://222.89.107.42:9876/tsfile/live/0131_1.m3u8?key=txiptv&playlive=1&authid=0
+安徽卫视,http://222.89.107.42:9876/tsfile/live/0130_1.m3u8?key=txiptv&playlive=1&authid=0
+深圳卫视,http://222.89.107.42:9876/tsfile/live/0126_1.m3u8?key=txiptv&playlive=1&authid=0
+河北卫视,http://222.89.107.42:9876/tsfile/live/0132_1.m3u8?key=txiptv&playlive=1&authid=0
+黑龙江卫视,http://222.89.107.42:9876/tsfile/live/0143_1.m3u8?key=txiptv&playlive=1&authid=0
+江西卫视,http://222.89.107.42:9876/tsfile/live/0138_1.m3u8?key=txiptv&playlive=1&authid=0
+四川卫视,http://222.89.107.42:9876/tsfile/live/0123_1.m3u8?key=txiptv&playlive=1&authid=0
+云南卫视,http://222.89.107.42:9876/tsfile/live/0119_1.m3u8?key=txiptv&playlive=1&authid=0
+贵州卫视,http://222.89.107.42:9876/tsfile/live/0120_1.m3u8?key=txiptv&playlive=1&authid=0
+辽宁卫视,http://222.89.107.42:9876/tsfile/live/0121_1.m3u8?key=txiptv&playlive=1&authid=0
+东方卫视,http://222.89.107.42:9876/tsfile/live/0137_1.m3u8?key=txiptv&playlive=1&authid=0
+重庆卫视,http://222.89.107.42:9876/tsfile/live/0142_1.m3u8?key=txiptv&playlive=1&authid=0
+广东卫视,http://222.89.107.42:9876/tsfile/live/0125_1.m3u8?key=txiptv&playlive=1&authid=0
+广西卫视,http://222.89.107.42:9876/tsfile/live/0113_1.m3u8?key=txiptv&playlive=1&authid=0
+海南卫视,http://222.89.107.42:9876/tsfile/live/1000_1.m3u8?key=txiptv&playlive=1&authid=0
+吉林卫视,http://222.89.107.42:9876/tsfile/live/0116_1.m3u8?key=txiptv&playlive=1&authid=0
+山西卫视,http://222.89.107.42:9876/tsfile/live/0118_1.m3u8?key=txiptv&playlive=1&authid=0
+陕西卫视,http://222.89.107.42:9876/tsfile/live/0136_1.m3u8?key=txiptv&playlive=1&authid=0
+甘肃卫视,http://222.89.107.42:9876/tsfile/live/0141_1.m3u8?key=txiptv&playlive=1&authid=0
+宁夏卫视,http://222.89.107.42:9876/tsfile/live/0112_1.m3u8?key=txiptv&playlive=1&authid=0
+青海卫视,http://222.89.107.42:9876/tsfile/live/0140_1.m3u8?key=txiptv&playlive=1&authid=0
+内蒙古卫视,http://222.89.107.42:9876/tsfile/live/0109_1.m3u8?key=txiptv&playlive=1&authid=0
+西藏卫视,http://222.89.107.42:9876/tsfile/live/0111_1.m3u8?key=txiptv&playlive=1&authid=0
+新疆卫视,http://222.89.107.42:9876/tsfile/live/0110_1.m3u8?key=txiptv&playlive=1&authid=0
+开封新闻,http://222.89.107.42:9876/tsfile/live/0139_8.m3u8?key=txiptv&playlive=1&authid=0
+开封公共,http://222.89.107.42:9876/tsfile/live/0017_2.m3u8?key=txiptv&playlive=1&authid=0
+炫动卡通,http://222.89.107.42:9876/tsfile/live/0017_4.m3u8?key=txiptv&playlive=1&authid=0
+卡酷动画,http://222.89.107.42:9876/tsfile/live/0017_3.m3u8?key=txiptv&playlive=1&authid=0
+金鹰卡通,http://222.89.107.42:9876/tsfile/live/0018_1.m3u8?key=txiptv&playlive=1&authid=0
+嘉佳卡通,http://222.89.107.42:9876/tsfile/live/0018_2.m3u8?key=txiptv&playlive=1&authid=0
+河南睛彩中原 tv,http://live.dxhmt.cn:9080/19903718786/854deb36f8db4c9098cad18cc35bd632.m3u8
+河南移动戏曲 tv,http://live.dxhmt.cn:9080/19903718786/a9aab4c5eef74da18d684c75c6dd7e10.m3u8
+武术世界 tv,http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+梨园频道 tv,http://live.dxhmt.cn:9080/19903718786/3159ec673c114135816d45dd52ad7396.m3u8
+登封综合 tv,http://tvpull.dxhmt.cn:9081/tv/10185-1.m3u8
+登封综合,http://live.dxhmt.cn:9081/tv/10185-1.m3u8
+巩义新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10181-1.m3u8
+巩义新闻综合,http://live.dxhmt.cn:9081/tv/10181-1.m3u8
+上街电视台 tv,http://tvpull.dxhmt.cn:9081/tv/10106-1.m3u8
+上街电视台,http://live.dxhmt.cn:9081/tv/10106-1.m3u8
+新密新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10183-2.m3u8
+新密新闻,http://live.dxhmt.cn:9081/tv/10183-2.m3u8
+荥阳综合 tv,http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+荥阳综合,http://live.dxhmt.cn:9081/tv/10182-1.m3u8
+新郑综合 tv,http://tvpull.dxhmt.cn:9081/tv/10184-1.m3u8
+新郑综合,http://live.dxhmt.cn:9081/tv/10184-1.m3u8
+安阳县新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10522-1.m3u8
+新郑综合,http://live.dxhmt.cn:9081/tv/10522-1.m3u8
+滑县新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+滑县新闻,http://live.dxhmt.cn:9081/tv/10526-1.m3u8
+林州综合 tv,http://tvpull.dxhmt.cn:9081/tv/10581-1.m3u8
+林州综合,http://live.dxhmt.cn:9081/tv/10581-1.m3u8
+内黄综合 tv,http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+内黄综合,http://live.dxhmt.cn:9081/tv/10527-1.m3u8
+汤阴综合 tv,http://tvpull.dxhmt.cn:9081/tv/10523-1.m3u8
+汤阴综合,http://live.dxhmt.cn:9081/tv/10523-1.m3u8
+汤阴综合,http://live.dxhmt.cn:9081/tv/11322-1.m3u8
+内乡综合 tv,http://tvpull.dxhmt.cn:9081/tv/11325-1.m3u8
+内乡综合,http://live.dxhmt.cn:9081/tv/11325-1.m3u8
+社旗综合 tv,http://tvpull.dxhmt.cn:9081/tv/11327-1.m3u8
+社旗综合,http://live.dxhmt.cn:9081/tv/11327-1.m3u8
+桐柏新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11330-1.m3u8
+桐柏新闻综合,http://live.dxhmt.cn:9081/tv/11330-1.m3u8
+桐柏新闻综合,http://live.dxhmt.cn:9081/tv/11328-1.m3u8
+淅川综合 tv,http://tvpull.dxhmt.cn:9081/tv/11326-1.m3u8
+淅川综合,http://live.dxhmt.cn:9081/tv/11326-1.m3u8
+新野综合 tv,http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8
+新野综合,http://live.dxhmt.cn:9081/tv/11329-1.m3u8
+镇平新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11324-1.m3u8
+镇平新闻综合,http://live.dxhmt.cn:9081/tv/11324-1.m3u8
+镇平新闻综合,http://live.dxhmt.cn:9081/tv/10324-1.m3u8
+孟津新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10322-2.m3u8
+孟津新闻,http://live.dxhmt.cn:9081/tv/10322-2.m3u8
+汝阳综合 tv,http://tvpull.dxhmt.cn:9081/tv/10326-1.m3u8
+汝阳综合,http://live.dxhmt.cn:9081/tv/10326-1.m3u8
+嵩县综合新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+嵩县综合新闻,http://live.dxhmt.cn:9081/tv/10325-1.m3u8
+新安新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+新安新闻综合,http://live.dxhmt.cn:9081/tv/10323-1.m3u8
+伊川电视台 tv,http://tvpull.dxhmt.cn:9081/tv/10329-1.m3u8
+伊川电视台,http://live.dxhmt.cn:9081/tv/10329-1.m3u8
+偃师新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10381-1.m3u8
+偃师新闻,http://live.dxhmt.cn:9081/tv/10381-1.m3u8
+宜阳综合 tv,http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+宜阳综合,http://live.dxhmt.cn:9081/tv/10327-1.m3u8
+焦作综合 tv,http://zhpull.dxhmt.cn/jiaozuo/b75a92c9503e47cf9e89f7ff247b65f2/playlist.m3u8
+焦作公共 tv,http://zhpull.dxhmt.cn/jiaozuo/29b65b69130c4ef1a3283cc7b913da05/playlist.m3u8
+焦作教育 tv,http://zhpull.dxhmt.cn/jiaozuo/9c10435ad24c409baee219ec289e17d0/playlist.m3u8
+睛彩焦作 tv,http://zhpull.dxhmt.cn/jiaozuo/c5eb91b47f0e42318f34fc0247c8acaa/playlist.m3u8
+孟州综合 tv,http://tvpull.dxhmt.cn:9081/tv/10883-1.m3u8
+孟州综合,http://live.dxhmt.cn:9081/tv/10883-1.m3u8
+沁阳新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+沁阳新闻综合,http://live.dxhmt.cn:9081/tv/10882-1.m3u8
+温县综合 tv,http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+温县综合,http://live.dxhmt.cn:9081/tv/10825-1.m3u8
+武陟新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10823-1.m3u8
+武陟新闻综合,http://live.dxhmt.cn:9081/tv/10823-1.m3u8
+建安综合 tv,http://tvpull.dxhmt.cn:9081/tv/11003-1.m3u8
+建安综合,http://live.dxhmt.cn:9081/tv/11003-1.m3u8
+襄城综合 tv,http://tvpull.dxhmt.cn:9081/tv/11025-1.m3u8
+襄城综合,http://live.dxhmt.cn:9081/tv/11025-1.m3u8
+鄢陵综合 tv,http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+鄢陵综合,http://live.dxhmt.cn:9081/tv/11024-1.m3u8
+禹州综合 tv,http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州综合,http://live.dxhmt.cn:9081/tv/11081-1.m3u8
+禹州公共 tv,http://tvpull.dxhmt.cn:9081/tv/11081-2.m3u8
+禹州公共,http://tvpull.dxhmt.cn/tv/11081-2.m3u8
+开封新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10200-2.m3u8
+开封新闻综合,http://live.dxhmt.cn:9081/tv/10200-2.m3u8
+开封公共 tv,http://tvpull.dxhmt.cn:9081/tv/10200-3.m3u8
+开封公共,http://live.dxhmt.cn:9081/tv/10200-3.m3u8
+兰考新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10225-1.m3u8
+兰考新闻,http://live.dxhmt.cn:9081/tv/10225-1.m3u8
+杞县新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10221-1.m3u8
+杞县新闻综合,http://live.dxhmt.cn:9081/tv/10221-1.m3u8
+通许综合 tv,http://tvpull.dxhmt.cn:9081/tv/10222-1.m3u8
+通许综合,http://live.dxhmt.cn:9081/tv/10222-1.m3u8
+尉氏综合 tv,http://tvpull.dxhmt.cn:9081/tv/10223-1.m3u8
+尉氏综合,http://live.dxhmt.cn:9081/tv/10223-1.m3u8
+郸城新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11625-1.m3u8
+郸城新闻综合,http://live.dxhmt.cn:9081/tv/11625-1.m3u8
+扶沟综合 tv,http://tvpull.dxhmt.cn:9081/tv/11621-1.m3u8
+扶沟综合,http://live.dxhmt.cn:9081/tv/11621-1.m3u8
+鹿邑新闻 tv,http://tvpull.dxhmt.cn:9081/tv/11628-1.m3u8
+鹿邑新闻,http://live.dxhmt.cn:9081/tv/11628-1.m3u8
+沈丘新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11624-1.m3u8
+沈丘新闻综合,http://live.dxhmt.cn:9081/tv/11624-1.m3u8
+太康综合 tv,http://tvpull.dxhmt.cn:9081/tv/11627-1.m3u8
+太康综合,http://live.dxhmt.cn:9081/tv/11627-1.m3u8
+项城新闻 tv,http://tvpull.dxhmt.cn:9081/tv/11681-1.m3u8
+项城新闻,http://live.dxhmt.cn:9081/tv/11681-1.m3u8
+西华综合 tv,http://tvpull.dxhmt.cn:9081/tv/11622-1.m3u8
+西华综合,http://live.dxhmt.cn:9081/tv/11622-1.m3u8
+永城新闻 tv,http://tvpull.dxhmt.cn:9081/tv/11481-1.m3u8
+永城新闻,http://live.dxhmt.cn:9081/tv/11481-1.m3u8
+灵宝新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+灵宝新闻综合,http://live.dxhmt.cn:9081/tv/11282-1.m3u8
+卢氏综合 tv,http://tvpull.dxhmt.cn:9081/tv/11224-1.m3u8
+卢氏综合,http://live.dxhmt.cn:9081/tv/11224-1.m3u8
+渑池新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+渑池新闻综合,http://live.dxhmt.cn:9081/tv/11221-1.m3u8
+义马新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+义马新闻综合,http://live.dxhmt.cn:9081/tv/11281-1.m3u8
+光山综合 tv,http://tvpull.dxhmt.cn:9081/tv/11522-1.m3u8
+光山综合,http://live.dxhmt.cn:9081/tv/11522-1.m3u8
+固始综合 tv,http://tvpull.dxhmt.cn:9081/tv/11525-1.m3u8
+固始综合,http://live.dxhmt.cn:9081/tv/11525-1.m3u8
+潢川综合 tv,http://tvpull.dxhmt.cn:9081/tv/11526-1.m3u8
+潢川综合,http://live.dxhmt.cn:9081/tv/11526-1.m3u8
+罗山综合 tv,http://tvpull.dxhmt.cn:9081/tv/11521-1.m3u8
+罗山综合,http://live.dxhmt.cn:9081/tv/11521-1.m3u8
+商城新闻 tv,http://tvpull.dxhmt.cn:9081/tv/11524-1.m3u8
+商城新闻,http://live.dxhmt.cn:9081/tv/11524-1.m3u8
+新县综合 tv,http://tvpull.dxhmt.cn:9081/tv/11523-1.m3u8
+新县综合,http://live.dxhmt.cn:9081/tv/11523-1.m3u8
+临颍综合 tv,http://tvpull.dxhmt.cn:9081/tv/11122-1.m3u8
+临颍综合,http://live.dxhmt.cn:9081/tv/11122-1.m3u8
+舞阳新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11121-1.m3u8
+舞阳新闻综合,http://live.dxhmt.cn:9081/tv/19001-1.m3u8
+淇县电视台 tv,http://tvpull.dxhmt.cn:9081/tv/10622-1.m3u8
+淇县电视台,http://live.dxhmt.cn:9081/tv/10622-1.m3u8
+淇县电视台,http://live.dxhmt.cn:9081/tv/10621-1.m3u8
+泌阳新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8
+泌阳新闻综合,http://live.dxhmt.cn:9081/tv/11726-1.m3u8
+平舆综合 tv,http://tvpull.dxhmt.cn:9081/tv/11723-1.m3u8
+平舆综合,http://live.dxhmt.cn:9081/tv/11723-1.m3u8
+上蔡综合 tv,http://tvpull.dxhmt.cn:9081/tv/11722-1.m3u8
+上蔡综合,http://live.dxhmt.cn:9081/tv/11722-1.m3u8
+上蔡综合,http://live.dxhmt.cn:9081/tv/11728-1.m3u8
+新蔡综合 tv,http://tvpull.dxhmt.cn:9081/tv/11729-1.m3u8
+新蔡综合,http://live.dxhmt.cn:9081/tv/11729-1.m3u8
+西平综合 tv,http://tvpull.dxhmt.cn:9081/tv/11721-1.m3u8
+西平综合,http://live.dxhmt.cn:9081/tv/11721-1.m3u8
+长垣综合 tv,http://tvpull.dxhmt.cn:9081/tv/10728-1.m3u8
+长垣综合,http://live.dxhmt.cn:9081/tv/10728-1.m3u8
+封丘新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10727-1.m3u8
+tv,http://live.dxhmt.cn:9081/tv/10727-1.m3u8
+封丘城乡生活 tv,http://tvpull.dxhmt.cn:9081/tv/10727-2.m3u8
+封丘城乡生活,http://live.dxhmt.cn:9081/tv/10727-2.m3u8
+封丘戏曲 tv,http://tvpull.dxhmt.cn:9081/tv/10727-3.m3u8
+封丘戏曲,http://live.dxhmt.cn:9081/tv/10727-3.m3u8
+获嘉综合 tv,http://tvpull.dxhmt.cn:9081/tv/10724-1.m3u8
+获嘉综合,http://live.dxhmt.cn:9081/tv/10724-1.m3u8
+辉县新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10782-1.m3u8
+辉县新闻综合,http://live.dxhmt.cn:9081/tv/10782-1.m3u8
+卫辉综合 tv,http://tvpull.dxhmt.cn:9081/tv/10781-1.m3u8
+卫辉综合,http://live.dxhmt.cn:9081/tv/10781-1.m3u8
+新乡县电视台 tv,http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+新乡县电视台,http://live.dxhmt.cn:9081/tv/10721-1.m3u8
+原阳新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10725-1.m3u8
+原阳新闻综合,http://live.dxhmt.cn:9081/tv/10725-1.m3u8
+宝丰综合 tv,http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+宝丰综合,http://live.dxhmt.cn:9081/tv/10421-1.m3u8
+郏县综合 tv,http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+郏县综合,http://live.dxhmt.cn:9081/tv/10425-1.m3u8
+鲁山综合 tv,http://tvpull.dxhmt.cn:9081/tv/10423-1.m3u8
+鲁山综合,http://live.dxhmt.cn:9081/tv/10423-1.m3u8
+汝州新闻 tv,http://tvpull.dxhmt.cn:9081/tv/10482-1.m3u8
+汝州新闻,http://live.dxhmt.cn:9081/tv/10482-1.m3u8
+汝州科教 tv,http://tvpull.dxhmt.cn:9081/tv/10482-2.m3u8
+汝州科教,http://live.dxhmt.cn:9081/tv/10482-2.m3u8
+舞钢新闻综合 tv,http://tvpull.dxhmt.cn:9081/tv/10481-1.m3u8
+舞钢新闻综合,http://live.dxhmt.cn:9081/tv/10481-1.m3u8
+舞钢新闻综合,http://live.dxhmt.cn:9081/tv/10422-1.m3u8
+方城一套 tv,http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
+唐河一套 tv,http://tvpull.dxhmt.cn:9081/tv/11328-1.m3u8
+济源电视一套 tv,http://tvpull.dxhmt.cn:9081/tv/19001-1.m3u8
+遂平一套 tv,http://tvpull.dxhmt.cn:9081/tv/11728-1.m3u8
+叶县一套 tv,http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+华语电视,http://38.64.72.148/hls/modn/list/4002/chunklist1.m3u8
+华语电视2,http://38.64.72.148/hls/modn/list/4003/chunklist1.m3u8
+长城精品,http://38.64.72.148/hls/modn/list/4008/chunklist1.m3u8
+TVBS,http://38.64.72.148/hls/modn/list/4005/chunklist1.m3u8
+TVBS新闻,http://38.64.72.148/hls/modn/list/4006/chunklist1.m3u8
+民视新闻,http://38.64.72.148/hls/modn/list/4012/chunklist1.m3u8
+台视新闻,http://38.64.72.148/hls/modn/list/4013/chunklist1.m3u8
+东森美洲,http://38.64.72.148/hls/modn/list/2016/chunklist1.m3u8
+11,http://38.64.72.148/hls/modn/list/4011/chunklist1.m3u8
+汉天,http://38.64.72.148/hls/modn/list/4025/chunklist1.m3u8
+中国台,http://38.64.72.148/hls/modn/list/2003/chunklist1.m3u8
+超视,http://38.64.72.148/hls/modn/list/2013/chunklist1.m3u8
+15,http://38.64.72.148/hls/modn/list/2015/chunklist1.m3u8
+寰宇新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV02.m3u8
+运通财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV06.m3u8
+信大购物,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV07.m3u8
+三立INEWS,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV01.m3u8
+三立NEWS+,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV32.m3u8
+东森财经,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV03.m3u8
+中视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV09.m3u8
+民视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV17.m3u8
+台视新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV25.m3u8
+中天新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV28.m3u8
+tvbs新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV83.m3u8
+tvbs新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV31.m3u8
+镜新闻,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV70.m3u8
+凤凰中文,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV43.m3u8
+凤凰资讯,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV22.m3u8
+新唐人,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV23.m3u8
+中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV34.m3u8
+中视,https://raw.githubusercontent.com/ChiSheng9/iptv/master/TV81.m3u8
+東森財經,https://epg.pw/stream/c4452be892906f85b59ac80ba36d1924380e404a65012937dc589180fd84ebe2.m3u8
+台视新闻,https://epg.pw/stream/a399e85fa5940ba0350181fdfa9e103f3556324a504c5cb5ef35c0c4f9a04c36.m3u8
+美亚电影,https://epg.pw/stream/f756fd481d421b861ac431717c303e200b697ff47eb789065645f8b61f67a264.m3u8
+东森洋片,https://epg.pw/stream/f01792b149a55cc131150c35d0c678d325563b064635315b40d4ad31bb52090e.m3u8
+中国电影,https://epg.pw/stream/955488b84e90b3d75fcc1ce2ee6319b04fa9237531d570de71d18325d3b02c14.m3u8
+天映頻道,https://epg.pw/stream/94825470393bc22e1fc5b1b9e8da9ca3c7de92b04e2d3b070bb8596fc15a3301.ctv
+凤凰中文,http://222.212.96.248:8000/udp/239.93.0.162:2192
+凤凰资讯,http://222.212.96.248:8000/udp/239.93.0.118:2191
+第一财经,https://www.yicai.com/api/dycj/liveIndex.m3u8
+东方财经,https://www.yicai.com/api/dfcj/liveIndex.m3u8
+金马影院,https://pull.kktv8.com/livekktv/128600025.flv
+东森洋片,https://epg.pw/stream/8b6c965b023696353ae23ce6216297fa6f2e13236497bcfe9d9955fb69be2259.m3u8
+峨眉电影,http://125.71.250.138:8899/udp/239.93.1.18:5140
+三立台湾,http://58.63.64.164:8888/udp/239.253.43.93:5146
+285*file*http://198.16.100.90:8278/sanlitaiwan/playlist.m3u8?tid=m92ccadc4dc3718157816&ct=17874&tsum=3570a8198ca0fb7ebb803807e38b33fb
+凤凰中文,http://125.71.250.138:8899/udp/239.93.0.162:2192
